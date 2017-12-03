@@ -5,8 +5,8 @@
         <DisplayName>Open in Brackets</DisplayName>
         <Description xml:space="preserve">Adds a menu command that lets you open any solution, project, folder and file in Adobe Brackets Editor.</Description>
         <License>LICENSE.txt</License>
-        <Icon>Resources\icon.png</Icon>
-        <PreviewImage>Resources\brackets.png</PreviewImage>
+        <Icon>Resources\brackets.png</Icon>
+        <PreviewImage>Resources\icon.png</PreviewImage>
         <Tags>Brackets code editor programming</Tags>
     </Metadata>
     <Installation>
